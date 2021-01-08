@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gkhan3842/resumenew.git/static/css/main.5415bd27.chunk.css",
+    "main.js": "/gkhan3842/resumenew.git/static/js/main.7f07ed36.chunk.js",
+    "main.js.map": "/gkhan3842/resumenew.git/static/js/main.7f07ed36.chunk.js.map",
+    "runtime-main.js": "/gkhan3842/resumenew.git/static/js/runtime-main.79bb4564.js",
+    "runtime-main.js.map": "/gkhan3842/resumenew.git/static/js/runtime-main.79bb4564.js.map",
+    "static/js/2.62e266a9.chunk.js": "/gkhan3842/resumenew.git/static/js/2.62e266a9.chunk.js",
+    "static/js/2.62e266a9.chunk.js.map": "/gkhan3842/resumenew.git/static/js/2.62e266a9.chunk.js.map",
+    "index.html": "/gkhan3842/resumenew.git/index.html",
+    "static/css/main.5415bd27.chunk.css.map": "/gkhan3842/resumenew.git/static/css/main.5415bd27.chunk.css.map",
+    "static/js/2.62e266a9.chunk.js.LICENSE.txt": "/gkhan3842/resumenew.git/static/js/2.62e266a9.chunk.js.LICENSE.txt",
+    "static/media/phone-call.d3584894.png": "/gkhan3842/resumenew.git/static/media/phone-call.d3584894.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79bb4564.js",
+    "static/js/2.62e266a9.chunk.js",
+    "static/css/main.5415bd27.chunk.css",
+    "static/js/main.7f07ed36.chunk.js"
+  ]
+}
